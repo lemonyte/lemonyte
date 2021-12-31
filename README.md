@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=LemonPi314" alt="Profile views" />
 </a>
 
-## 👋 About Me
+## 👋About Me
 > I've got too much time on my hands, and not enough projects.
 
 I'm a student and teaching myself programming in my spare time.<br>
 A lone explorer in the wonderful world of technology and development.
 
-## 📧 Contact
+## 📧Contact
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
 <p>
   <a href="https://discord.com" target="_blank">
@@ -20,7 +20,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <b>LemonPi#3674</b>
 </p>
 
-## ⭐ Featured Projects
+## ⭐Featured Projects
 - [Pyco](https://github.com/Duplexes/pyco)
 - [Duplicate File Finder](https://github.com/LemonPi314/dff)
 - [Stegosaurus](https://github.com/LemonPi314/stegosaurus)
@@ -34,7 +34,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 - [Mostly Harmless](https://github.com/LemonPi314/mostly-harmless)
 - [MLA Terminal](https://github.com/LemonPi314/mla-terminal)
 
-## 🔧 Languages and Tools
+## 🔧Languages and Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="assets/python.svg" alt="python" width="40" height="40"/>
@@ -95,7 +95,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   </a>
 </p>
 
-## 📈 GitHub Stats
+## 📈GitHub Stats
 <a href="https://github.com/LemonPi314/LemonPi314">
   <img src="https://github-readme-stats.vercel.app/api?username=LemonPi314&show_icons=true&count_private=true&theme=github_dark" alt="LemonPi314's GitHub Stats" />
 </a>
@@ -104,4 +104,9 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 </a>
 <a href="https://github.com/LemonPi314/LemonPi314">
   <img src="https://activity-graph.herokuapp.com/graph?username=LemonPi314&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="LemonPi314's Contribution Graph" />
+</a>
+
+## 🏆Certifications
+<a href="https://www.credly.com/badges/6de5e9e5-9d1c-4a7b-b3cd-82e1c0c46567/public_url">
+  <img src="https://images.credly.com/size/150x150/images/587b02d4-41d5-4a81-9b9d-b5076200713c/pcap-31-xx.png" alt="Certified Associate in Python Programming" />
 </a>
