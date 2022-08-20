@@ -97,10 +97,10 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 
 ## 📈GitHub Stats
 <a href="https://github.com/LemonPi314/LemonPi314">
-  <img src="https://github-readme-stats.vercel.app/api?username=LemonPi314&show_icons=true&count_private=true&theme=github_dark" alt="LemonPi314's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LemonPi314&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" alt="LemonPi314's GitHub Stats" />
 </a>
 <a href="https://github.com/LemonPi314/LemonPi314">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPi314&layout=compact&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPi314&layout=compact&langs_count=8&theme=github_dark" alt="Most Used Languages" />
 </a>
 <a href="https://github.com/LemonPi314/LemonPi314">
   <img src="https://activity-graph.herokuapp.com/graph?username=LemonPi314&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="LemonPi314's Contribution Graph" />
