@@ -22,15 +22,17 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 
 ## ⭐Featured Projects
 - [Pyco](https://github.com/Duplexes/pyco)
+- [Wastebin](https://github.com/LemonPi314/wastebin)
+- [Turtle Drawer](https://github.com/LemonPi314/turtle-drawer)
 - [Duplicate File Finder](https://github.com/LemonPi314/dff)
+- [Russian Roulette Discord Bot](https://github.com/LemonPi314/russian-roulette-bot)
+- [Picture Painter](https://github.com/LemonPi314/picture-painter)
+- [Terminal Snake](https://github.com/LemonPi314/terminal-snake)
+- [Pongout](https://github.com/nitinramvelraj/zesty-zombies-2.0)
 - [Stegosaurus](https://github.com/LemonPi314/stegosaurus)
-- [YouTube Downloader](https://github.com/LemonPi314/youtube-downloader)
-- [PyChat](https://github.com/Duplexes/PyChat)
 - [Coding Club CLI](https://github.com/ebus-coding-club/coding-club-cli)
 - [DVD Screensaver](https://github.com/LemonPi314/dvd-screensaver)
 - [Password Generator](https://github.com/LemonPi314/password-generator)
-- [Picture Painter](https://github.com/LemonPi314/picture-painter)
-- [Russian Roulette Discord Bot](https://github.com/LemonPi314/russian-roulette-bot)
 - [Mostly Harmless](https://github.com/LemonPi314/mostly-harmless)
 - [MLA Terminal](https://github.com/LemonPi314/mla-terminal)
 
