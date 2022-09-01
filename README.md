@@ -1,9 +1,6 @@
 <a href="https://github.com/LemonPi314/LemonPi314" target="_blank">
   <img src="assets/banner.png" alt="LemonPi314" />
 </a>
-<a href="https://github.com/LemonPi314" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=LemonPi314" alt="Profile views" />
-</a>
 
 ## 👋About Me
 > I've got too much time on my hands, and not enough projects.
@@ -97,18 +94,18 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   </a>
 </p>
 
-## 📈GitHub Stats
-<a href="https://github.com/LemonPi314/LemonPi314">
-  <img src="https://github-readme-stats.vercel.app/api?username=LemonPi314&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" alt="LemonPi314's GitHub Stats" />
+## 🏆Certifications
+<a href="https://www.credly.com/badges/6de5e9e5-9d1c-4a7b-b3cd-82e1c0c46567/public_url">
+  <img src="https://images.credly.com/size/150x150/images/587b02d4-41d5-4a81-9b9d-b5076200713c/pcap-31-xx.png" alt="Certified Associate in Python Programming" />
 </a>
-<a href="https://github.com/LemonPi314/LemonPi314">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPi314&layout=compact&langs_count=8&theme=github_dark" alt="Most Used Languages" />
+
+## 📈Metrics
+<a href="https://github.com/LemonPi314">
+  <img src="https://komarev.com/ghpvc/?username=LemonPi314" alt="Profile views" />
 </a>
 <a href="https://github.com/LemonPi314/LemonPi314">
   <img src="https://activity-graph.herokuapp.com/graph?username=LemonPi314&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="LemonPi314's Contribution Graph" />
 </a>
-
-## 🏆Certifications
-<a href="https://www.credly.com/badges/6de5e9e5-9d1c-4a7b-b3cd-82e1c0c46567/public_url">
-  <img src="https://images.credly.com/size/150x150/images/587b02d4-41d5-4a81-9b9d-b5076200713c/pcap-31-xx.png" alt="Certified Associate in Python Programming" />
+<a href="https://github.com/LemonPi314/LemonPi314">
+  <img src="/assets/metrics/github-metrics.svg" alt="Metrics" />
 </a>
