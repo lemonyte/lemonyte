@@ -3,8 +3,6 @@
 </a>
 
 ## 👋About Me
-> I've got too much time on my hands, and not enough projects.
-
 I'm a student and teaching myself programming in my spare time.<br>
 A lone explorer in the wonderful world of technology and development.
 
