@@ -38,6 +38,15 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <a href="https://www.python.org" target="_blank">
     <img src="assets/python.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="assets/html.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="assets/css.svg" alt="css" width="40" height="40"/>
+  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="assets/dotnet.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -50,23 +59,14 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <a href="https://unity.com" target="_blank">
     <img src="assets/unity.svg" alt="unity" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="assets/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="assets/java.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="assets/html.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="assets/css.svg" alt="css" width="40" height="40"/>
+  <a href="https://www.deta.sh/" target="_blank">
+    <img src="assets/deta.svg" alt="deta" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="assets/sqlite.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/en/latest/" target="_blank">
-    <img src="assets/flask.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="assets/vscode.svg" alt="vscode" width="40" height="40"/>
@@ -85,9 +85,6 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="assets/arduino.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gimp.org/" target="_blank">
-    <img src="assets/gimp.svg" alt="gimp" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Terminal_emulator" target="_blank">
     <img src="assets/terminal.svg" alt="terminal" width="40" height="40"/>
