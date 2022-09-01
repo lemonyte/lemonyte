@@ -63,7 +63,7 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
