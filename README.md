@@ -9,10 +9,8 @@ A lone explorer in the wonderful world of technology and development.
 ## 📧Contact
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
 <p>
-  <a href="https://discord.com" target="_blank">
-    <img align="center" src="assets/discord.svg" alt="discord" height="24" width="32" />
-  </a>
-  <b>LemonPi#3674</b>
+  <img align="center" src="assets/discord.svg" alt="discord" height="24" width="32" />
+  <b><a href="https://discord.com/users/710569497081151590" target="_blank">LemonPi#3674</a></b>
 </p>
 
 ## ⭐Featured Projects
