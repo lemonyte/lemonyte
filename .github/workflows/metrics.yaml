@@ -28,10 +28,9 @@ jobs:
           # Options
           user: LemonPi314
           filename: assets/metrics/github-metrics.*
-          template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_timezone: America/New_York
+          commits_authoring: LemonPi314, 49930425+LemonPi314@users.noreply.github.com
+          base_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_discussions: yes
