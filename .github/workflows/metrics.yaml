@@ -30,6 +30,11 @@ jobs:
           filename: assets/metrics/github-metrics.*
           config_timezone: America/New_York
           commits_authoring: LemonPi314, 49930425+LemonPi314@users.noreply.github.com
+          
+          debug: yes
+          debug_print: yes
+          clean_workflows: all
+          
           base_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
