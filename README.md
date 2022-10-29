@@ -14,14 +14,17 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 </p>
 
 ## ⭐Featured Projects
+- [PyAutoTrace](https://github.com/LemonPi314/pyautotrace)
 - [Pyco](https://github.com/Duplexes/pyco)
 - [Wastebin](https://github.com/LemonPi314/wastebin)
+- [Deta Status](https://github.com/LemonPi314/deta-status)
 - [Turtle Drawer](https://github.com/LemonPi314/turtle-drawer)
 - [Duplicate File Finder](https://github.com/LemonPi314/dff)
 - [Russian Roulette Discord Bot](https://github.com/LemonPi314/russian-roulette-bot)
+- [HTTP Waifus](https://github.com/LemonPi314/http-waifus)
 - [Picture Painter](https://github.com/LemonPi314/picture-painter)
 - [Terminal Snake](https://github.com/LemonPi314/terminal-snake)
-- [Pongout](https://github.com/nitinramvelraj/zesty-zombies-2.0)
+- [Pongout](https://github.com/LemonPi314/pongout)
 - [Stegosaurus](https://github.com/LemonPi314/stegosaurus)
 - [Coding Club CLI](https://github.com/ebus-coding-club/coding-club-cli)
 - [DVD Screensaver](https://github.com/LemonPi314/dvd-screensaver)
