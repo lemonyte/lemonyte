@@ -3,7 +3,8 @@
 </a>
 
 ## 👋About Me
-I'm a student and teaching myself programming in my spare time.<br>
+Student by day, developer by night.<br>
+Terminal enthusiast and creator of random websites.<br>
 A lone explorer in the wonderful world of technology and development.
 
 ## 📧Contact
