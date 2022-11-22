@@ -94,6 +94,9 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 <a href="https://www.credly.com/badges/6de5e9e5-9d1c-4a7b-b3cd-82e1c0c46567/public_url">
   <img src="https://images.credly.com/size/150x150/images/587b02d4-41d5-4a81-9b9d-b5076200713c/pcap-31-xx.png" alt="Certified Associate in Python Programming" />
 </a>
+<a href="https://www.credly.com/badges/5ee72a83-1872-4348-8e50-0736b1628c7c/public_url">
+  <img src="https://images.credly.com/size/150x150/images/68fb1361-3dbc-4bcb-9748-66620b61bf01/pcpp-32-1xx.png" alt="Certified Professional in Python Programming 1" />
+</a>
 
 ## 📈Metrics
 <a href="https://github.com/LemonPi314">
