@@ -104,7 +104,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <img src="https://komarev.com/ghpvc/?username=LemonPi314" alt="Profile views" />
 </a>
 <a href="https://github.com/LemonPi314/LemonPi314">
-  <img src="https://activity-graph.herokuapp.com/graph?username=LemonPi314&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="LemonPi314's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LemonPi314&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="LemonPi314's Contribution Graph" />
 </a>
 <a href="https://github.com/LemonPi314/LemonPi314">
   <img src="/assets/metrics/github-metrics.svg" alt="Metrics" />
