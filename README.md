@@ -1,5 +1,5 @@
-<a href="https://github.com/LemonPi314/LemonPi314" target="_blank">
-  <img src="assets/banner.png" alt="LemonPi314" />
+<a href="https://github.com/lemonyte/lemonyte" target="_blank">
+  <img src="assets/banner.png" alt="lemonyte" />
 </a>
 
 ## 👋About Me
@@ -11,27 +11,27 @@ A lone explorer in the wonderful world of technology and development.
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
 <p>
   <img align="center" src="assets/discord.svg" alt="discord" height="24" width="32" />
-  <b><a href="https://discord.com/users/710569497081151590" target="_blank">LemonPi#3674</a></b>
+  <b><a href="https://discord.com/users/710569497081151590" target="_blank">Lemonyte#3674</a></b>
 </p>
 
 ## ⭐Featured Projects
-- [PyAutoTrace](https://github.com/LemonPi314/pyautotrace)
+- [PyAutoTrace](https://github.com/lemonyte/pyautotrace)
 - [Pyco](https://github.com/Duplexes/pyco)
-- [Wastebin](https://github.com/LemonPi314/wastebin)
-- [Deta Status](https://github.com/LemonPi314/deta-status)
-- [Turtle Drawer](https://github.com/LemonPi314/turtle-drawer)
-- [Duplicate File Finder](https://github.com/LemonPi314/dff)
-- [Russian Roulette Discord Bot](https://github.com/LemonPi314/russian-roulette-bot)
-- [HTTP Waifus](https://github.com/LemonPi314/http-waifus)
-- [Picture Painter](https://github.com/LemonPi314/picture-painter)
-- [Terminal Snake](https://github.com/LemonPi314/terminal-snake)
-- [Pongout](https://github.com/LemonPi314/pongout)
-- [Stegosaurus](https://github.com/LemonPi314/stegosaurus)
+- [Wastebin](https://github.com/lemonyte/wastebin)
+- [Deta Status](https://github.com/lemonyte/deta-status)
+- [Turtle Drawer](https://github.com/lemonyte/turtle-drawer)
+- [Duplicate File Finder](https://github.com/lemonyte/dff)
+- [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot)
+- [HTTP Waifus](https://github.com/lemonyte/http-waifus)
+- [Picture Painter](https://github.com/lemonyte/picture-painter)
+- [Terminal Snake](https://github.com/lemonyte/terminal-snake)
+- [Pongout](https://github.com/lemonyte/pongout)
+- [Stegosaurus](https://github.com/lemonyte/stegosaurus)
 - [Coding Club CLI](https://github.com/ebus-coding-club/coding-club-cli)
-- [DVD Screensaver](https://github.com/LemonPi314/dvd-screensaver)
-- [Password Generator](https://github.com/LemonPi314/password-generator)
-- [Mostly Harmless](https://github.com/LemonPi314/mostly-harmless)
-- [MLA Terminal](https://github.com/LemonPi314/mla-terminal)
+- [DVD Screensaver](https://github.com/lemonyte/dvd-screensaver)
+- [Password Generator](https://github.com/lemonyte/password-generator)
+- [Mostly Harmless](https://github.com/lemonyte/mostly-harmless)
+- [MLA Terminal](https://github.com/lemonyte/mla-terminal)
 
 ## 🔧Languages and Tools
 <p align="left">
@@ -100,12 +100,12 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 </a>
 
 ## 📈Metrics
-<a href="https://github.com/LemonPi314">
-  <img src="https://komarev.com/ghpvc/?username=LemonPi314" alt="Profile views" />
+<a href="https://github.com/lemonyte">
+  <img src="https://komarev.com/ghpvc/?username=lemonyte" alt="Profile views" />
 </a>
-<a href="https://github.com/LemonPi314/LemonPi314">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LemonPi314&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="LemonPi314's Contribution Graph" />
+<a href="https://github.com/lemonyte/lemonyte">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lemonyte&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="lemonyte's Contribution Graph" />
 </a>
-<a href="https://github.com/LemonPi314/LemonPi314">
+<a href="https://github.com/lemonyte/lemonyte">
   <img src="/assets/metrics/github-metrics.svg" alt="Metrics" />
 </a>
