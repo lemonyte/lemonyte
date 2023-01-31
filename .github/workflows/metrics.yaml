@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: LemonPi314
+          user: lemonyte
           filename: assets/metrics/github-metrics.*
           config_timezone: America/New_York
           base_indepth: yes
