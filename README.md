@@ -1,7 +1,3 @@
-<a href="https://github.com/lemonyte/lemonyte" target="_blank">
-  <img src="assets/banner.png" alt="lemonyte" />
-</a>
-
 ## 👋About Me
 Student by day, developer by night.<br>
 Terminal enthusiast and creator of random websites.<br>
