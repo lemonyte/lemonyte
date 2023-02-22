@@ -58,7 +58,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="assets/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
-  <a href="https://www.deta.sh/" target="_blank">
+  <a href="https://deta.space/" target="_blank">
     <img src="assets/deta.svg" alt="deta" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
