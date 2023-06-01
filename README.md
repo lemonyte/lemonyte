@@ -100,7 +100,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <img src="https://komarev.com/ghpvc/?username=lemonyte" alt="Profile views" />
 </a>
 <a href="https://github.com/lemonyte/lemonyte">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lemonyte&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="lemonyte's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemonyte&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="lemonyte's Contribution Graph" />
 </a>
 <a href="https://github.com/lemonyte/lemonyte">
   <img src="/assets/metrics/github-metrics.svg" alt="Metrics" />
