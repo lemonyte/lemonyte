@@ -7,7 +7,7 @@ A lone explorer in the wonderful world of technology and development.
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
 <p>
   <img align="center" src="assets/discord.svg" alt="discord" height="24" width="32" />
-  <b><a href="https://discord.com/users/710569497081151590" target="_blank">Lemonyte#3674</a></b>
+  <b><a href="https://discord.com/users/710569497081151590" target="_blank">@lemonyte</a></b>
 </p>
 
 ## ⭐Featured Projects
