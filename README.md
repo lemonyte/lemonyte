@@ -37,7 +37,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 - [Mostly Harmless](https://github.com/lemonyte/mostly-harmless)
 - [MLA Terminal](https://github.com/lemonyte/mla-terminal)
 
-## 🔧Languages and Tools
+## 🛠️Languages & Tools
 
 <p>
   <a href="https://www.python.org" target="_blank">
