@@ -56,9 +56,6 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="assets/css.svg" alt="css" width="40" height="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="assets/dotnet.svg" alt="dotnet" width="40" height="40"/>
-  </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img src="assets/csharp.svg" alt="csharp" width="40" height="40"/>
   </a>
