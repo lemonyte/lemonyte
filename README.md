@@ -46,6 +46,10 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="assets/html.svg" alt="html" width="40" height="40"/>
   </a>
