@@ -11,6 +11,10 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <img src="assets/discord.svg" alt="discord" height="24" width="32" />
   <b><a href="https://discord.com/users/710569497081151590" target="_blank">@lemonyte</a></b>
 </p>
+<p>
+  <img src="assets/matrix.svg" alt="matrix" height="24" width="32" />
+  <b><a href="https://matrix.to/#/@lemonyte:matrix.org" target="_blank">@lemonyte:matrix.org</a></b>
+</p>
 
 ## ⭐Featured Projects
 
