@@ -12,12 +12,13 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 
 ## ⭐Featured Projects
 - [PyAutoTrace](https://github.com/lemonyte/pyautotrace)
-- [Pyco](https://github.com/Duplexes/pyco)
+- [Ferry Planner](https://github.com/lemonyte/ferry-planner)
+- [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot)
 - [Wastebin](https://github.com/lemonyte/wastebin)
+- [Pyco](https://github.com/Duplexes/pyco)
 - [Deta Status](https://github.com/lemonyte/deta-status)
 - [Turtle Drawer](https://github.com/lemonyte/turtle-drawer)
 - [Duplicate File Finder](https://github.com/lemonyte/dff)
-- [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot)
 - [HTTP Waifus](https://github.com/lemonyte/http-waifus)
 - [Picture Painter](https://github.com/lemonyte/picture-painter)
 - [Terminal Snake](https://github.com/lemonyte/terminal-snake)
