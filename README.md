@@ -4,13 +4,16 @@ Terminal enthusiast and creator of random websites.<br>
 A lone explorer in the wonderful world of technology and development.
 
 ## 📧Contact
+
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
+
 <p>
   <img align="center" src="assets/discord.svg" alt="discord" height="24" width="32" />
   <b><a href="https://discord.com/users/710569497081151590" target="_blank">@lemonyte</a></b>
 </p>
 
 ## ⭐Featured Projects
+
 - [PyAutoTrace](https://github.com/lemonyte/pyautotrace)
 - [Ferry Planner](https://github.com/lemonyte/ferry-planner)
 - [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot)
@@ -31,6 +34,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 - [MLA Terminal](https://github.com/lemonyte/mla-terminal)
 
 ## 🔧Languages and Tools
+
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="assets/python.svg" alt="python" width="40" height="40"/>
@@ -89,6 +93,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 </p>
 
 ## 🏆Certifications
+
 <a href="https://www.credly.com/badges/6de5e9e5-9d1c-4a7b-b3cd-82e1c0c46567/public_url">
   <img src="https://images.credly.com/size/150x150/images/587b02d4-41d5-4a81-9b9d-b5076200713c/pcap-31-xx.png" alt="Certified Associate in Python Programming" />
 </a>
@@ -97,6 +102,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 </a>
 
 ## 📈Metrics
+
 <a href="https://github.com/lemonyte">
   <img src="https://komarev.com/ghpvc/?username=lemonyte" alt="Profile views" />
 </a>
