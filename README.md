@@ -8,7 +8,7 @@ A lone explorer in the wonderful world of technology and development.
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
 
 <p>
-  <img align="center" src="assets/discord.svg" alt="discord" height="24" width="32" />
+  <img src="assets/discord.svg" alt="discord" height="24" width="32" />
   <b><a href="https://discord.com/users/710569497081151590" target="_blank">@lemonyte</a></b>
 </p>
 
@@ -35,7 +35,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 
 ## 🔧Languages and Tools
 
-<p align="left">
+<p>
   <a href="https://www.python.org" target="_blank">
     <img src="assets/python.svg" alt="python" width="40" height="40"/>
   </a>
