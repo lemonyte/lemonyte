@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello fellow traveller, I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passionate about the world of software and technology.
+Hello fellow traveller! I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passionate about the world of software and technology.
 
 - ❤️ I love [terminals](https://github.com/lemonyte/terminal-player) and making things that are [useful](https://github.com/lemonyte/ferry-planner) to others.
 - 🧠 I'm always trying to expand my knowledge and skillset, so I'm learning Rust right now.
