@@ -1,4 +1,4 @@
-## 👋About Me
+# 👋 About Me
 
 Hello fellow traveller, I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passionate about the world of software and technology.
 
@@ -22,7 +22,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <b><a href="https://matrix.to/#/@lemonyte:matrix.org" target="_blank">@lemonyte:matrix.org</a></b>
 </p>
 
-## ⭐Featured Projects
+## ⭐ Featured Projects
 
 - [PyAutoTrace](https://github.com/lemonyte/pyautotrace)
 - [Ferry Planner](https://github.com/lemonyte/ferry-planner)
@@ -43,7 +43,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 - [Mostly Harmless](https://github.com/lemonyte/mostly-harmless)
 - [MLA Terminal](https://github.com/lemonyte/mla-terminal)
 
-## 🛠️Languages & Tools
+## 🛠️ Languages & Tools
 
 <p>
   <a href="https://www.python.org" target="_blank">
@@ -94,7 +94,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   </a>
 </p>
 
-## 🏆Certifications
+## 🏆 Certifications
 
 <a href="https://www.credly.com/badges/6de5e9e5-9d1c-4a7b-b3cd-82e1c0c46567/public_url">
   <img src="https://images.credly.com/size/150x150/images/587b02d4-41d5-4a81-9b9d-b5076200713c/pcap-31-xx.png" alt="Certified Associate in Python Programming" />
@@ -103,7 +103,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <img src="https://images.credly.com/size/150x150/images/68fb1361-3dbc-4bcb-9748-66620b61bf01/pcpp-32-1xx.png" alt="Certified Professional in Python Programming 1" />
 </a>
 
-## 📈Metrics
+## 📈 Metrics
 
 <a href="https://github.com/lemonyte">
   <img src="https://komarev.com/ghpvc/?username=lemonyte" alt="Profile views" />
