@@ -9,7 +9,7 @@ Hello fellow traveller, I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passio
 - 🤝 I'm quite fond of open source and I'm always looking for ways to contribute and give back.
 - 💭 I'm dreaming of a future where software and hardware exist in the hands of the people, for the people, and by the people, without technological limitations.
 
-## 📧Contact
+## 📧 Contact
 
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
 
