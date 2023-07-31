@@ -29,19 +29,16 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 - [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot)
 - [Wastebin](https://github.com/lemonyte/wastebin)
 - [Pyco](https://github.com/Duplexes/pyco)
-- [Deta Status](https://github.com/lemonyte/deta-status)
 - [Turtle Drawer](https://github.com/lemonyte/turtle-drawer)
-- [Duplicate File Finder](https://github.com/lemonyte/dff)
 - [HTTP Waifus](https://github.com/lemonyte/http-waifus)
+- [Duplicate File Finder](https://github.com/lemonyte/dff)
 - [Picture Painter](https://github.com/lemonyte/picture-painter)
 - [Terminal Snake](https://github.com/lemonyte/terminal-snake)
 - [Pongout](https://github.com/lemonyte/pongout)
 - [Stegosaurus](https://github.com/lemonyte/stegosaurus)
 - [Coding Club CLI](https://github.com/ebus-coding-club/coding-club-cli)
 - [DVD Screensaver](https://github.com/lemonyte/dvd-screensaver)
-- [Password Generator](https://github.com/lemonyte/password-generator)
 - [Mostly Harmless](https://github.com/lemonyte/mostly-harmless)
-- [MLA Terminal](https://github.com/lemonyte/mla-terminal)
 
 ## 🛠️ Languages & Tools
 
