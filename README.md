@@ -74,15 +74,6 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="assets/sqlite.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="assets/vscode.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="assets/vs.svg" alt="vs" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="assets/github.svg" alt="github" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com" target="_blank">
     <img src="assets/git.svg" alt="git" width="40" height="40"/>
   </a>
@@ -91,9 +82,6 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="assets/arduino.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Terminal_emulator" target="_blank">
-    <img src="assets/terminal.svg" alt="terminal" width="40" height="40"/>
   </a>
 </p>
 
