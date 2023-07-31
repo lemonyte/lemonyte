@@ -1,7 +1,13 @@
 ## 👋About Me
-Student by day, developer by night.<br>
-Terminal enthusiast and creator of random websites.<br>
-A lone explorer in the wonderful world of technology and development.
+
+Hello fellow traveller, I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passionate about the world of software and technology.
+
+- ❤️ I love [terminals](https://github.com/lemonyte/terminal-player) and making things that are [useful](https://github.com/lemonyte/ferry-planner) to others.
+- 🧠 I'm always trying to expand my knowledge and skillset, so I'm learning Rust right now.
+- 💡 I like to learn about anything that sparks my interest, like [web development](https://github.com/lemonyte/wastebin), [image vectorization](https://github.com/lemonyte/pyautotrace), [Discord bots](https://github.com/lemonyte/russian-roulette-bot), and [cryptography](https://github.com/lemonyte/stegosaurus).
+- 🔥 I believe in writing structured, readable, maintainable code, and occasionally having some [fun](https://github.com/lemonyte/http-waifus).
+- 🤝 I'm quite fond of open source and I'm always looking for ways to contribute and give back.
+- 💭 I'm dreaming of a future where software and hardware exist in the hands of the people, for the people, and by the people, without technological limitations.
 
 ## 📧Contact
 
