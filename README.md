@@ -44,50 +44,50 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 
 <p>
   <a href="https://www.python.org" target="_blank">
-    <img src="assets/python.svg" alt="Python" width="40" height="40"/>
+    <img src="assets/python.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="assets/javascript.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="assets/javascript.svg" alt="JavaScript" width="40" height="40" />
   </a>
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="assets/typescript.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="assets/typescript.svg" alt="TypeScript" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="assets/html.svg" alt="HTML" width="40" height="40"/>
+    <img src="assets/html.svg" alt="HTML" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="assets/css.svg" alt="CSS" width="40" height="40"/>
+    <img src="assets/css.svg" alt="CSS" width="40" height="40" />
   </a>
   <a href="https://deno.land" target="_blank">
-    <img src="assets/deno.svg" alt="Deno" width="40" height="40"/>
+    <img src="assets/deno.svg" alt="Deno" width="40" height="40" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img src="assets/csharp.svg" alt="C#" width="40" height="40"/>
+    <img src="assets/csharp.svg" alt="C#" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="assets/cplusplus.svg" alt="C++" width="40" height="40"/>
+    <img src="assets/cplusplus.svg" alt="C++" width="40" height="40" />
   </a>
   <a href="https://unity.com" target="_blank">
-    <img src="assets/unity.svg" alt="Unity" width="40" height="40"/>
+    <img src="assets/unity.svg" alt="Unity" width="40" height="40" />
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="assets/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+    <img src="assets/fastapi.svg" alt="FastAPI" width="40" height="40" />
   </a>
   <a href="https://deta.space/" target="_blank">
-    <img src="assets/deta.svg" alt="Deta" width="40" height="40"/>
+    <img src="assets/deta.svg" alt="Deta" width="40" height="40" />
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="assets/sqlite.svg" alt="SQLite" width="40" height="40"/>
+    <img src="assets/sqlite.svg" alt="SQLite" width="40" height="40" />
   </a>
   <a href="https://git-scm.com" target="_blank">
-    <img src="assets/git.svg" alt="Git" width="40" height="40"/>
+    <img src="assets/git.svg" alt="Git" width="40" height="40" />
   </a>
   <a href="https://www.blender.org/" target="_blank">
-    <img src="assets/blender.svg" alt="Blender" width="40" height="40"/>
+    <img src="assets/blender.svg" alt="Blender" width="40" height="40" />
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="assets/arduino.svg" alt="Arduino" width="40" height="40"/>
+    <img src="assets/arduino.svg" alt="Arduino" width="40" height="40" />
   </a>
 </p>
 
