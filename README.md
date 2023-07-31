@@ -24,6 +24,9 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 
 ## ⭐ Featured Projects
 
+These are some of my favorite projects that I've worked on.
+A star or contribution is a great way to keep a solo developer motivated!
+
 - [PyAutoTrace](https://github.com/lemonyte/pyautotrace)
 - [Ferry Planner](https://github.com/lemonyte/ferry-planner)
 - [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot)
