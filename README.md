@@ -8,11 +8,11 @@ A lone explorer in the wonderful world of technology and development.
 If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
 
 <p>
-  <img align="center" src="assets/discord.svg" alt="discord" height="24" width="24" />
+  <img align="center" src="assets/discord.svg" alt="Discord" height="24" width="24" />
   <b><a href="https://discord.com/users/710569497081151590" target="_blank">@lemonyte</a></b>
 </p>
 <p>
-  <img align="center" src="assets/matrix.svg" alt="matrix" height="24" width="24" />
+  <img align="center" src="assets/matrix.svg" alt="Matrix" height="24" width="24" />
   <b><a href="https://matrix.to/#/@lemonyte:matrix.org" target="_blank">@lemonyte:matrix.org</a></b>
 </p>
 
@@ -41,47 +41,47 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
 
 <p>
   <a href="https://www.python.org" target="_blank">
-    <img src="assets/python.svg" alt="python" width="40" height="40"/>
+    <img src="assets/python.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="assets/javascript.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/>
+    <img src="assets/typescript.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="assets/html.svg" alt="html" width="40" height="40"/>
+    <img src="assets/html.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="assets/css.svg" alt="css" width="40" height="40"/>
+    <img src="assets/css.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img src="assets/csharp.svg" alt="csharp" width="40" height="40"/>
+    <img src="assets/csharp.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="assets/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="assets/cplusplus.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://unity.com" target="_blank">
-    <img src="assets/unity.svg" alt="unity" width="40" height="40"/>
+    <img src="assets/unity.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="assets/fastapi.svg" alt="fastapi" width="40" height="40"/>
+    <img src="assets/fastapi.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://deta.space/" target="_blank">
-    <img src="assets/deta.svg" alt="deta" width="40" height="40"/>
+    <img src="assets/deta.svg" alt="Deta" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="assets/sqlite.svg" alt="sqlite" width="40" height="40"/>
+    <img src="assets/sqlite.svg" alt="SQLite" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank">
-    <img src="assets/git.svg" alt="git" width="40" height="40"/>
+    <img src="assets/git.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.blender.org/" target="_blank">
-    <img src="assets/blender.svg" alt="blender" width="40" height="40"/>
+    <img src="assets/blender.svg" alt="Blender" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="assets/arduino.svg" alt="arduino" width="40" height="40"/>
+    <img src="assets/arduino.svg" alt="Arduino" width="40" height="40"/>
   </a>
 </p>
 
@@ -100,7 +100,7 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <img src="https://komarev.com/ghpvc/?username=lemonyte" alt="Profile views" />
 </a>
 <a href="https://github.com/lemonyte/lemonyte">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemonyte&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="lemonyte's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemonyte&color=c2d0d8&bg_color=0d1117&line=58a5fe&point=1f6fea" alt="Lemonyte's Contribution Graph" />
 </a>
 <a href="https://github.com/lemonyte/lemonyte">
   <img src="assets/metrics/github-metrics.svg" alt="Metrics" />
