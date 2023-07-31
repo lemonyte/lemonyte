@@ -56,6 +56,9 @@ If you have any project ideas, requests, or questions, don't hesitate to get in 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="assets/css.svg" alt="CSS" width="40" height="40"/>
   </a>
+  <a href="https://deno.land" target="_blank">
+    <img src="assets/deno.svg" alt="Deno" width="40" height="40"/>
+  </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img src="assets/csharp.svg" alt="C#" width="40" height="40"/>
   </a>
