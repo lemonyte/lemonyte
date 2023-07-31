@@ -11,7 +11,7 @@ Hello fellow traveller! I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passio
 
 ## 📧 Contact
 
-If you have any project ideas, requests, or questions, don't hesitate to get in touch with me!
+If you have a project idea, request, question, or just want to chat, don't hesitate to get in touch with me!
 
 <p>
   <img align="center" src="assets/discord.svg" alt="Discord" height="24" width="24" />
