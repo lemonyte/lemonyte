@@ -28,7 +28,7 @@ jobs:
           # Options
           user: lemonyte
           filename: assets/metrics/github-metrics.*
-          config_timezone: America/New_York
+          config_timezone: America/Los_Angeles
           base_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
