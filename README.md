@@ -6,7 +6,7 @@ Hello fellow traveller! I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passio
 - 🧠 I'm always trying to expand my knowledge and skillset, so I'm learning Rust right now.
 - 💡 I like to learn about anything that sparks my interest, like [web development](https://github.com/lemonyte/wastebin), [image vectorization](https://github.com/lemonyte/pyautotrace), [Discord bots](https://github.com/lemonyte/russian-roulette-bot), and [cryptography](https://github.com/lemonyte/stegosaurus).
 - 🔥 I believe in writing structured, readable, maintainable code, and occasionally having some [fun](https://github.com/lemonyte/http-waifus).
-- 🤝 I'm quite fond of open source and I'm always looking for ways to contribute and give back.
+- 🤝 I'm quite [fond of open source](https://liberamanifesto.com/) and I'm always looking for ways to contribute and give back.
 - 💭 I'm dreaming of a future where software and hardware exist in the hands of the people, for the people, and by the people, without technological limitations.
 
 ## 📧 Contact
