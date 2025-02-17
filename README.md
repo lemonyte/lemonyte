@@ -29,7 +29,7 @@ A star or contribution is a great way to keep a solo developer motivated!
 
 - [PyAutoTrace](https://github.com/lemonyte/pyautotrace) - AutoTrace image vectorizer bindings for Python
 - [Ferry Planner](https://github.com/lemonyte/ferry-planner) - BC Ferries sailing planner
-- [_](https://github.com/lemonyte/_) - Write Python with only `_`
+- [_](https://github.com/lemonyte/_) - Write Python using only `_`
 - [HTTP Waifus](https://github.com/lemonyte/http-waifus) - Waifus for every HTTP status code
 - [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot) - Play virtual Russian Roulette with your friends
 - [Wastebin](https://github.com/lemonyte/wastebin) - Simple, clean pastebin service
