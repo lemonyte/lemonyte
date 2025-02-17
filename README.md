@@ -77,6 +77,9 @@ A star or contribution is a great way to keep a solo developer motivated!
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="assets/fastapi.svg" alt="FastAPI" width="40" height="40" />
   </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="assets/cloudflare.svg" alt="Cloudflare" width="40" height="40" />
+  </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="assets/sqlite.svg" alt="SQLite" width="40" height="40" />
   </a>
