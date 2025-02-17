@@ -27,21 +27,15 @@ If you have a project idea, request, question, or just want to chat, don't hesit
 These are some of my favorite projects that I've worked on.
 A star or contribution is a great way to keep a solo developer motivated!
 
-- [PyAutoTrace](https://github.com/lemonyte/pyautotrace)
-- [Ferry Planner](https://github.com/lemonyte/ferry-planner)
-- [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot)
-- [Wastebin](https://github.com/lemonyte/wastebin)
-- [Pyco](https://github.com/Duplexes/pyco)
-- [Turtle Drawer](https://github.com/lemonyte/turtle-drawer)
-- [HTTP Waifus](https://github.com/lemonyte/http-waifus)
-- [Duplicate File Finder](https://github.com/lemonyte/dff)
-- [Picture Painter](https://github.com/lemonyte/picture-painter)
-- [Terminal Snake](https://github.com/lemonyte/terminal-snake)
-- [Pongout](https://github.com/lemonyte/pongout)
-- [Stegosaurus](https://github.com/lemonyte/stegosaurus)
-- [Coding Club CLI](https://github.com/ebus-coding-club/coding-club-cli)
-- [DVD Screensaver](https://github.com/lemonyte/dvd-screensaver)
-- [Mostly Harmless](https://github.com/lemonyte/mostly-harmless)
+- [PyAutoTrace](https://github.com/lemonyte/pyautotrace) - AutoTrace image vectorizer bindings for Python
+- [Ferry Planner](https://github.com/lemonyte/ferry-planner) - BC Ferries sailing planner
+- [_](https://github.com/lemonyte/_) - Write Python with only `_`
+- [HTTP Waifus](https://github.com/lemonyte/http-waifus) - Waifus for every HTTP status code
+- [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot) - Play virtual Russian Roulette with your friends
+- [Wastebin](https://github.com/lemonyte/wastebin) - Simple, clean pastebin service
+- [Duplicate File Finder](https://github.com/lemonyte/dff) - Find duplicate files quickly
+- [DVD Screen Saver](https://github.com/lemonyte/dvd-screensaver) - DVD screen saver for Windows
+- [Terminal Snake](https://github.com/lemonyte/terminal-snake) - The classic Snake game, in your terminal
 
 ## 🛠️ Languages & Tools
 
@@ -82,9 +76,6 @@ A star or contribution is a great way to keep a solo developer motivated!
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="assets/fastapi.svg" alt="FastAPI" width="40" height="40" />
-  </a>
-  <a href="https://deta.space/" target="_blank">
-    <img src="assets/deta.svg" alt="Deta" width="40" height="40" />
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="assets/sqlite.svg" alt="SQLite" width="40" height="40" />
