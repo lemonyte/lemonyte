@@ -14,13 +14,14 @@ Hi, I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passionate about the world
 If you have a project idea, request, question, or just want to chat, don't hesitate to get in touch with me!
 
 <p>
-  <img align="center" src="assets/discord.svg" alt="Discord" height="24" width="24" />
+  <img align="center" src="assets/discord.svg" alt="Discord" height="20" width="20" />
   <b><a href="https://discord.com/users/710569497081151590" target="_blank">@lemonyte</a></b>
 </p>
 <p>
-  <img align="center" src="assets/matrix.svg" alt="Matrix" height="24" width="24" />
+  <img align="center" src="assets/matrix.svg" alt="Matrix" height="20" width="20" />
   <b><a href="https://matrix.to/#/@lemonyte:matrix.org" target="_blank">@lemonyte:matrix.org</a></b>
 </p>
+📧 <b><a href="mailto:contact@lemonyte.com">contact@lemonyte.com</a></b>
 
 ## ⭐ Featured Projects
 
