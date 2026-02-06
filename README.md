@@ -1,13 +1,7 @@
-# 👋 About Me
+# 👋 About me
 
-Hi, I'm **Lemonyte**, an open-sourcerer 🧙‍♂️ passionate about the world of software and technology.
-
-- ❤️ I love [terminals](https://github.com/lemonyte/terminal-player) and making things that are [useful](https://github.com/lemonyte/ferry-planner) to others.
-- 🧠 I'm always trying to expand my knowledge and skillset, so I'm learning Rust right now.
-- 💡 I like to learn about anything that sparks my interest, like [web development](https://github.com/lemonyte/wastebin), [image vectorization](https://github.com/lemonyte/pyautotrace), [Discord bots](https://github.com/lemonyte/russian-roulette-bot), and [cryptography](https://github.com/lemonyte/stegosaurus).
-- 🔥 I believe in writing structured, readable, maintainable code, and occasionally having some [fun](https://github.com/lemonyte/http-waifus).
-- 🤝 I'm quite [fond of open source](https://liberamanifesto.com/) and I'm always looking for ways to contribute and give back.
-- 💭 I'm dreaming of a future where software and hardware exist in the hands of the people, for the people, and by the people, without technological limitations.
+Hi, I'm **Lemonyte**.
+Visit [my website](https://lemonyte.com) to learn more about me, see what I'm doing these days, read my blog, or even try your hand in a CTF challenge.
 
 ## 📧 Contact
 
@@ -23,7 +17,7 @@ If you have a project idea, request, question, or just want to chat, don't hesit
 </p>
 📧 <b><a href="mailto:contact@lemonyte.com">contact@lemonyte.com</a></b>
 
-## ⭐ Featured Projects
+## ⭐ Featured projects
 
 These are some of my favorite projects that I've worked on.
 A star or contribution is a great way to keep a solo developer motivated!
@@ -38,7 +32,7 @@ A star or contribution is a great way to keep a solo developer motivated!
 - [DVD Screen Saver](https://github.com/lemonyte/dvd-screensaver) - DVD screen saver for Windows
 - [Terminal Snake](https://github.com/lemonyte/terminal-snake) - The classic Snake game, in your terminal
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & tools
 
 <p>
   <a href="https://www.python.org" target="_blank">
