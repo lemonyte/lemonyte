@@ -7,6 +7,7 @@ Visit [my website](https://lemonyte.com) to learn more about me, see what I'm do
 
 If you have a project idea, request, question, or just want to chat, don't hesitate to get in touch with me!
 
+📧 <b><a href="mailto:contact@lemonyte.com">contact@lemonyte.com</a></b>
 <p>
   <img align="center" src="assets/discord.svg" alt="Discord" height="20" width="20" />
   <b><a href="https://discord.com/users/710569497081151590" target="_blank">@lemonyte</a></b>
@@ -15,22 +16,23 @@ If you have a project idea, request, question, or just want to chat, don't hesit
   <img align="center" src="assets/matrix.svg" alt="Matrix" height="20" width="20" />
   <b><a href="https://matrix.to/#/@lemonyte:matrix.org" target="_blank">@lemonyte:matrix.org</a></b>
 </p>
-📧 <b><a href="mailto:contact@lemonyte.com">contact@lemonyte.com</a></b>
 
 ## ⭐ Featured projects
 
 These are some of my favorite projects that I've worked on.
 A star or contribution is a great way to keep a solo developer motivated!
 
+- [safe-exec](https://github.com/lemonyte/safe-exec) - Deobfuscate Python exec() calls
 - [PyAutoTrace](https://github.com/lemonyte/pyautotrace) - AutoTrace image vectorizer bindings for Python
 - [Ferry Planner](https://github.com/lemonyte/ferry-planner) - BC Ferries sailing planner
+- [no-code](https://github.com/lemonyte/no-code) - The best way to write code is to write no code at all
 - [_](https://github.com/lemonyte/_) - Write Python using only `_`
 - [HTTP Waifus](https://github.com/lemonyte/http-waifus) - Waifus for every HTTP status code
 - [Russian Roulette Discord Bot](https://github.com/lemonyte/russian-roulette-bot) - Play virtual Russian Roulette with your friends
-- [Wastebin](https://github.com/lemonyte/wastebin) - Simple, clean pastebin service
-- [Duplicate File Finder](https://github.com/lemonyte/dff) - Find duplicate files quickly
 - [DVD Screen Saver](https://github.com/lemonyte/dvd-screensaver) - DVD screen saver for Windows
+- [Turtle Drawer](https://github.com/lemonyte/turtle-drawer) - Draw images with Python's Turtle library with automatic vectorization
 - [Terminal Snake](https://github.com/lemonyte/terminal-snake) - The classic Snake game, in your terminal
+- [Terminal Game of Life](https://github.com/lemonyte/game-of-life) - Conway's Game of Life, in your terminal
 
 ## 🛠️ Languages & tools
 
